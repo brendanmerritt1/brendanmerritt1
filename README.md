@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
 <h3 align="center">A passionate freelance web developer with 2+ years of building front and back end applications.</h3>
 <br>
-<div style="display: flex; flex-direction: column; align-items: center">
+<div align="center">
 
 [Email Me](mailto:brendanmerritt1@gmail.com)
 
 <br>
-    <div style="display: flex; flex-direction: column; align-items: flex-start">
-        <h3>🔭 I’m currently working on: <b>My portfolio website!</b></h3>
-        <h3>✅ I recently finished: <b>Website for Cloudburst Lawn Sprinkler Systems</b></h3>
-        <h3>🌱 I’m currently learning: <b>Tailwind, Blender, Three.js</b></h3>
-    </div>
 <br>
 
-</div>   
+</div>
+<h3>🔭 I’m currently working on: **My portfolio website!**</h3>
+<h3>✅ I recently finished: **Website for Cloudburst Lawn Sprinkler Systems**</h3>
+<h3>🌱 I’m currently learning: **Tailwind, Blender, Three.js**</h3>   
+<br>
 <br>
 <!-- Languages and Tools -->
 
