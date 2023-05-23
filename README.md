@@ -9,11 +9,17 @@
 <br>
 
 </div>
-<h3>🔭 I’m currently working on: **My portfolio website!**</h3>
-<h3>✅ I recently finished: **Website for Cloudburst Lawn Sprinkler Systems**</h3>
-<h3>🌱 I’m currently learning: **Tailwind, Blender, Three.js**</h3>   
+
+
+🔭 I’m currently working on: **My portfolio website!**
+
+✅ I recently finished: [Website for Cloudburst Lawn Sprinkler Systems](https://cloudburstsprinkler.com/)
+
+🌱 I’m currently learning: **Tailwind, Blender, Three.js** 
+
 <br>
 <br>
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
