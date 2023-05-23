@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
 <h3 align="center">A passionate freelance web developer with 2+ years of building front and back end applications.</h3>
 <br>
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center">
 
 [Email Me](mailto:brendanmerritt1@gmail.com)
+
+<br>
+    <div style="display: flex; flex-direction: column; align-items: flex-start">
+        <h3>🔭 I’m currently working on: <b>My portfolio website!</b></h3>
+        <h3>✅ I recently finished: <b>Website for Cloudburst Lawn Sprinkler Systems</b></h3>
+        <h3>🌱 I’m currently learning: <b>Tailwind, Blender, Three.js</b></h3>
+    </div>
+<br>
 
 </div>   
 <br>
@@ -91,17 +99,19 @@
 
 <div class="stats" align="center">
 
-[![Brendan Merritt's GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=brendanmerritt1&hide=stars&count_private=true&show_icons=true&theme=vue-dark#gh-dark-mode-only&border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Brendan Merritt's GitHub Stats - Dark](https://github-profile-stats-brendanmerritt1.vercel.app/api?username=brendanmerritt1&hide=stars&count_private=true&show_icons=true&theme=vue-dark#gh-dark-mode-only&border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Brendan Merritt's GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=brendanmerritt1&hide=stars&count_private=true&show_icons=true&theme=vue#gh-light-mode-only&border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Brendan Merritt's GitHub Stats - Light](https://github-profile-stats-brendanmerritt1.vercel.app/api?username=brendanmerritt1&hide=stars&count_private=true&show_icons=true&theme=vue#gh-light-mode-only&border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Most Used Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanmerritt1&layout=compact&show_icons=true&theme=vue-dark&hide=c&langs_count=5border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Most Used Languages - Dark](https://github-profile-stats-brendanmerritt1.vercel.app/api/top-langs/?username=brendanmerritt1&layout=compact&show_icons=true&theme=vue-dark&hide=c&langs_count=5border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Most Used Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanmerritt1&layout=compact&show_icons=true&theme=vue&hide=c&langs_count=5border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Most Used Languages - Light](https://github-profile-stats-brendanmerritt1.vercel.app/api/top-langs/?username=brendanmerritt1&layout=compact&show_icons=true&theme=vue&hide=c&langs_count=5border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
 
 ---
+
+<!-- Footer -->
 
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/brendanmerritt1/" target="_blank">
