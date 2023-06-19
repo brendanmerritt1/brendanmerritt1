@@ -15,7 +15,7 @@
 
 ✅ I recently finished: [Website for Cloudburst Lawn Sprinkler Systems](https://cloudburstsprinkler.com/)
 
-🌱 I’m currently learning: **Tailwind, Blender, Three.js** 
+🌱 I’m currently learning: **Next.js, Tailwind, Blender, Three.js** 
 
 <br>
 <br>
