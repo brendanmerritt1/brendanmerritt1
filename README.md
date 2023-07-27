@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
-<h3 align="center">A passionate freelance web developer with 2+ years of building front and back end applications.</h3>
+<h3 align="center">A passionate software engineer with 2+ years of building various software and web applications.</h3>
 <br>
 <div align="center">
 
@@ -11,11 +11,11 @@
 </div>
 
 
-🔭 I’m currently working on: **My portfolio website!**
+🔭 I’m currently working on: **Creating a ray tracer from scratch in C++!**
 
 ✅ I recently finished: [Website for Cloudburst Lawn Sprinkler Systems](https://cloudburstsprinkler.com/)
 
-🌱 I’m currently learning: **Next.js, Tailwind, Blender, Three.js** 
+🌱 I’m currently learning: **Procedural Graphics, Tailwind, Next.js** 
 
 <br>
 <br>
@@ -52,8 +52,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img  alt="Tailwind" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-      <img  alt="Angular" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+      <img  alt="C++" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
