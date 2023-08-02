@@ -11,7 +11,7 @@
 </div>
 
 
-🔭 I’m currently working on: **Creating a ray tracer from scratch in C++!**
+🔭 I’m currently working on: **Creating a ray tracer from scratch to make a cool wallpaper in C++ and GLSL!**
 
 ✅ I recently finished: [Website for Cloudburst Lawn Sprinkler Systems](https://cloudburstsprinkler.com/)
 
