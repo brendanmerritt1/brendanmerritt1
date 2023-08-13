@@ -11,11 +11,11 @@
 </div>
 
 
-🔭 I’m currently working on: **Creating a ray tracer from scratch to make a cool wallpaper in C++ and GLSL!**
+🔭 I’m currently working on: **My portfolio website!**
 
-✅ I recently finished: [Website for Cloudburst Lawn Sprinkler Systems](https://cloudburstsprinkler.com/)
+✅ I recently finished: [Creating a ray tracer to make a wallpaper in C++ and GLSL](https://www.shadertoy.com/view/Dtlyzj), [Website for Cloudburst Lawn Sprinkler Systems](https://cloudburstsprinkler.com/)
 
-🌱 I’m currently learning: **Procedural Graphics, Tailwind, Next.js** 
+🌱 I’m currently learning: **Procedural Graphics, Tailwind, Three.js** 
 
 <br>
 <br>
