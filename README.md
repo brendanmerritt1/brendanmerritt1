@@ -120,7 +120,7 @@
 
 <div class="footer" align="center" style="margin:15px; width: 100px;">
     <a href="https://brendanmerritt.com/" target="_blank" rel="noreferrer">
-        <img style="margin:0 50px 10px 0;" src="https://github.com/brendanmerritt1/brendanmerritt1/assets/69825805/8efa4359-b106-497c-829a-705e950e34ac" alt="website" width="40px"/>
+        <img style="margin:0 50px 10px 0;" src="https://user-images.githubusercontent.com/69825805/266580414-d5f3c9ae-54de-42d6-a122-e8df87407411.svg" alt="website" width="40px"/>
     </a>
     <a href="https://www.linkedin.com/in/brendanmerritt1/" target="_blank" rel="noreferrer">
         <img style="margin:0 50px 10px 0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
