@@ -2,14 +2,15 @@
 <h3 align="center">A passionate software engineer with 2+ years of building various software and web applications.</h3>
 <br>
 <div align="center">
+  
+  <a href="mailto:brendanmerritt1@gmail.com" target="_blank" rel="noreferrer">Email Me</a>
 
-[Email Me](mailto:brendanmerritt1@gmail.com)
-
-<br>
-<br>
-
+  <a href="https://brendanmerritt.com/" target="_blank" rel="noreferrer">My Website</a>
+  
 </div>
 
+<br>
+<br>
 
 🔭 I’m currently working on: **My portfolio website!**
 
@@ -116,13 +117,15 @@
 
 ---
 
-<!-- Footer -->
 
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.linkedin.com/in/brendanmerritt1/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
+<div class="footer" align="center" style="margin:15px; width: 100px;">
+    <a href="https://brendanmerritt.com/" target="_blank" rel="noreferrer">
+        <img style="margin:0 50px 10px 0;" src="https://github.com/brendanmerritt1/brendanmerritt1/assets/69825805/8efa4359-b106-497c-829a-705e950e34ac" alt="website" width="40px"/>
     </a>
-    <a href="mailto:brendanmerritt1@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    <a href="https://www.linkedin.com/in/brendanmerritt1/" target="_blank" rel="noreferrer">
+        <img style="margin:0 50px 10px 0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
+    </a>
+    <a href="mailto:brendanmerritt1@gmail.com" target="_blank" rel="noreferrer">
+        <img style="margin:0 50px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
