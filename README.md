@@ -12,7 +12,7 @@
 <br>
 <br>
 
-🔭 I’m currently working on: **My portfolio website!**
+🔭 I’m currently working on: **Adding more features to my portfolio website!**
 
 ✅ I recently finished: [Creating a ray tracer to make a wallpaper in C++ and GLSL](https://www.shadertoy.com/view/Dtlyzj), [Website for Cloudburst Lawn Sprinkler Systems](https://cloudburstsprinkler.com/)
 
