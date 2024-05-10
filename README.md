@@ -14,9 +14,9 @@
 
 🔭 I’m currently working on: **Adding more features to my portfolio website!**
 
-✅ I recently finished: [Creating a ray tracer to make a wallpaper in C++ and GLSL](https://www.shadertoy.com/view/Dtlyzj), [Website for Cloudburst Lawn Sprinkler Systems](https://cloudburstsprinkler.com/)
+✅ I recently finished: [My Portfolio Website](https://brendanmerritt.com/), [Creating a ray tracer to make a wallpaper in C++ and GLSL](https://www.shadertoy.com/view/Dtlyzj)
 
-🌱 I’m currently learning: **Procedural Graphics, Tailwind, Three.js** 
+🌱 I’m currently learning: **Vector DBs, PWAs, iOS and Android App Development** 
 
 <br>
 <br>
