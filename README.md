@@ -12,7 +12,7 @@
 <br>
 <br>
 
-🔭 I’m currently working on: **Adding more features to my portfolio website!**
+🔭 I’m currently working on: **Recipe Website designed for bloggers and home recipes!**
 
 ✅ I recently finished: [My Portfolio Website](https://brendanmerritt.com/), [Creating a ray tracer to make a wallpaper in C++ and GLSL](https://www.shadertoy.com/view/Dtlyzj)
 
