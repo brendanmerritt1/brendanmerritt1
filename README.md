@@ -105,7 +105,7 @@
 
 <div class="stats" align="center">
 
-[![Brendan Merritt's GitHub Stats - Dark](https://github-profile-stats-brendanmerritt1.vercel.app/api?username=brendanmerritt1&hide=stars&count_private=true&show_icons=true&theme=vue-dark#gh-dark-mode-only&border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Brendan Merritt's GitHub Stats - Dark](https://github-profile-stats-nt4pb8ybn-brendanmerritt1s-projects.vercel.app/api?username=brendanmerritt1&hide=stars&count_private=true&show_icons=true&theme=vue-dark#gh-dark-mode-only&border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Brendan Merritt's GitHub Stats - Light](https://github-profile-stats-brendanmerritt1.vercel.app/api?username=brendanmerritt1&hide=stars&count_private=true&show_icons=true&theme=vue#gh-light-mode-only&border_radius=20)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
